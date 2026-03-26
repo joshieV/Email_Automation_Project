@@ -2,6 +2,7 @@
 
 26 march 2026 - My goal is to create an email automation tool.
 I have asked deepseek ai to give me tasks to do and what to learn to create the project. Here is a preview:
+None of the code that i produce will be vibecoded.
 
 # 📧 Email Automation Tool
 
